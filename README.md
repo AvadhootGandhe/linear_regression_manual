@@ -2,10 +2,6 @@
 # 📈 Manual Linear Regression from Scratch
 
 Welcome! 👋  
-This notebook walks you through building **Linear Regression manually**, without using any machine learning libraries like `scikit-learn`.
-
-Whether you're a beginner trying to learn the math behind ML or a student brushing up for an exam — you're in the right place!
-
 ---
 
 ## 💡 What's Inside?
@@ -58,14 +54,6 @@ pip install numpy matplotlib
 
 Using libraries like `sklearn` is great, but understanding **how things work under the hood** is even better.  
 This notebook helps you *build intuition* behind linear regression — the foundation of many ML algorithms.
-
----
-
-## 🙌 Who’s This For?
-
-- 📘 Students
-- 🧪 Beginners in machine learning
-- 🔍 Curious coders who like to know the *why*, not just the *how*
 
 ---
 
